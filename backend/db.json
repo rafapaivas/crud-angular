@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 4.99
+    },
+    {
+      "id": 2,
+      "name": "Notebook A1",
+      "price": 4999.99
+    },
+    {
+      "id": 3,
+      "name": "Celular Sansumg S5",
+      "price": 6000
+    },
+    {
+      "name": "produto teste",
+      "price": 125.99,
+      "id": 4
+    }
+  ]
+}
